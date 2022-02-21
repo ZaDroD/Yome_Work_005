@@ -1,0 +1,15 @@
+C:\Users\ZaroD\Desktop\HW005\Example038\bin\Debug\net6.0\Example038.exe
+C:\Users\ZaroD\Desktop\HW005\Example038\bin\Debug\net6.0\Example038.deps.json
+C:\Users\ZaroD\Desktop\HW005\Example038\bin\Debug\net6.0\Example038.runtimeconfig.json
+C:\Users\ZaroD\Desktop\HW005\Example038\bin\Debug\net6.0\Example038.dll
+C:\Users\ZaroD\Desktop\HW005\Example038\bin\Debug\net6.0\ref\Example038.dll
+C:\Users\ZaroD\Desktop\HW005\Example038\bin\Debug\net6.0\Example038.pdb
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.csproj.AssemblyReference.cache
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.AssemblyInfoInputs.cache
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.AssemblyInfo.cs
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.csproj.CoreCompileInputs.cache
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.dll
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\ref\Example038.dll
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.pdb
+C:\Users\ZaroD\Desktop\HW005\Example038\obj\Debug\net6.0\Example038.genruntimeconfig.cache
